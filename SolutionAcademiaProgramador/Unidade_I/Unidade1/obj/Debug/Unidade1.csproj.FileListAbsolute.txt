@@ -1,0 +1,5 @@
+c:\users\labuser\documents\visual studio 2013\Projects\AcademiaProgramador\Unidade1\bin\Debug\Unidade1.exe.config
+c:\users\labuser\documents\visual studio 2013\Projects\AcademiaProgramador\Unidade1\bin\Debug\Unidade1.exe
+c:\users\labuser\documents\visual studio 2013\Projects\AcademiaProgramador\Unidade1\bin\Debug\Unidade1.pdb
+c:\users\labuser\documents\visual studio 2013\Projects\AcademiaProgramador\Unidade1\obj\Debug\Unidade1.exe
+c:\users\labuser\documents\visual studio 2013\Projects\AcademiaProgramador\Unidade1\obj\Debug\Unidade1.pdb
