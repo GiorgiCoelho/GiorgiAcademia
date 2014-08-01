@@ -4,7 +4,7 @@ namespace Unidade1.Logica.Complementares
 {
     internal class Menu
     {
-        public static void Main(string[] args)
+        public static void Main08(string[] args)
         {
             int opcao = 1;
             while (opcao != 0)

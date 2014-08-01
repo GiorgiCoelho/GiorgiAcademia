@@ -41,10 +41,15 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Logica\Complementares\Combustivel.cs" />
+    <Compile Include="Logica\Complementares\ContaCliente.cs" />
+    <Compile Include="Logica\Complementares\Estoque.cs" />
     <Compile Include="Logica\Complementares\Fibonnaci.cs" />
+    <Compile Include="Logica\Complementares\JornadaTrabalho.cs" />
     <Compile Include="Logica\Complementares\Menu.cs" />
     <Compile Include="Logica\Complementares\triangulo1.cs" />
     <Compile Include="Logica\Complementares\triangulo2.cs" />
+    <Compile Include="Logica\Complementares\Xadrez.cs" />
     <Compile Include="Logica\Fixação\ImprimeNome.cs" />
     <Compile Include="Logica\Fixação\ImprimeNumeros.cs" />
     <Compile Include="Logica\Fixação\ImprimePadrao1.cs" />
