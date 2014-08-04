@@ -22,7 +22,6 @@ namespace Unidade_II.Orientação_Objetos.Complementar
             turma2.serie = "Quinta Série";
             turma2.sigla =  "5ª Série";
 
-
         }
     }
 }
