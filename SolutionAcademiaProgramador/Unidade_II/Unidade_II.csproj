@@ -41,16 +41,13 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Orientação Objetos\Fixação\Agencia.cs" />
-    <Compile Include="Orientação Objetos\Fixação\CartaoDeCredito.cs" />
-    <Compile Include="Orientação Objetos\Fixação\Cliente.cs" />
-    <Compile Include="Orientação Objetos\Fixação\TestaAgencia.cs" />
-    <Compile Include="Orientação Objetos\Fixação\TestaCartaoDeCredito.cs" />
-    <Compile Include="Orientação Objetos\Fixação\TestaCliente.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Orientação Objetos\" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
