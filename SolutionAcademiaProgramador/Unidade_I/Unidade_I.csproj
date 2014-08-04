@@ -41,6 +41,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Logica\Complementares\Combustivel.cs" />
     <Compile Include="Logica\Complementares\Fibonnaci.cs" />
     <Compile Include="Logica\Complementares\Menu.cs" />
     <Compile Include="Logica\Complementares\triangulo1.cs" />
