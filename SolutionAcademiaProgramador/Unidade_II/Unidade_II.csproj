@@ -41,14 +41,27 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Orientação Objetos\Complementar\Aluno.cs" />
+    <Compile Include="Orientação Objetos\Complementar\Funcionario.cs" />
+    <Compile Include="Orientação Objetos\Complementar\TestaAluno.cs" />
+    <Compile Include="Orientação Objetos\Complementar\TestaFuncionario.cs" />
+    <Compile Include="Orientação Objetos\Complementar\TestaTurma.cs" />
+    <Compile Include="Orientação Objetos\Complementar\Turma.cs" />
+    <Compile Include="Orientação Objetos\Fixação\Agencia.cs" />
+    <Compile Include="Orientação Objetos\Fixação\CartaoDeCredito.cs" />
+    <Compile Include="Orientação Objetos\Fixação\Cliente.cs" />
+    <Compile Include="Orientação Objetos\Fixação\Conta.cs" />
+    <Compile Include="Orientação Objetos\Fixação\TestaAgencia.cs" />
+    <Compile Include="Orientação Objetos\Fixação\TestaCartaoDeCredito.cs" />
+    <Compile Include="Orientação Objetos\Fixação\TestaCliente.cs" />
+    <Compile Include="Orientação Objetos\Fixação\TestaConta.cs" />
+    <Compile Include="Orientação Objetos\Fixação\TestaValoresPadrao.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
-  <ItemGroup>
-    <Folder Include="Orientação Objetos\" />
-  </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.
