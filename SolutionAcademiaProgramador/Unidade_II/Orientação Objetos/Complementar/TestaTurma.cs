@@ -8,7 +8,7 @@ namespace Unidade_II.Orientação_Objetos.Complementar
 {
     class TestaTurma
     {
-        public static void Main(string[] args)
+        public static void Main04(string[] args)
         {
             Turma turma1 = new Turma();
             turma1.periodo = "Matutino";
