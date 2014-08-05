@@ -10,5 +10,7 @@ namespace Unidade_II.Orientação_Objetos
     {
         public int numero;
         public string dataDeValidade;
+
+        public Cliente cliente;
     }
 }
