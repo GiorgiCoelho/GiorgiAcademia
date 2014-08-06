@@ -12,12 +12,12 @@ namespace Unidade_II.Orientação_Objetos.Fixação.Overloading
             g1.salario = 200;
             Console.WriteLine("Salário: "+g1.salario);
             Console.WriteLine("Taxa fixa de 10%");
-            g1.AumentoSalario();            
+            g1.AumentoSalario();
+            Console.WriteLine("Salário: " + g1.salario);
             Console.Write("Taxa Variada: ");
             double taxa = double.Parse(Console.ReadLine());
             taxa /= 100;
             g1.AumentoSalario(taxa);
-
             Console.WriteLine("Salário: " +g1.salario);
             Console.ReadKey();
 
