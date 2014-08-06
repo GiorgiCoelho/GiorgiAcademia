@@ -10,7 +10,7 @@ namespace Unidade_II.Orientação_Objetos
     {
         public static void Main02(string[] args)
         {
-            CartaoDeCredito cdc1 = new CartaoDeCredito();
+            CartaoDeCreditoAgregacao cdc1 = new CartaoDeCreditoAgregacao();
             cdc1.numero = 11223344;
             cdc1.dataDeValidade = "12/08";
 
@@ -18,7 +18,7 @@ namespace Unidade_II.Orientação_Objetos
             c.codigo = 232323;
             c.nome = "Giorgi";
 
-            CartaoDeCredito cdc2 = new CartaoDeCredito();
+            CartaoDeCreditoAgregacao cdc2 = new CartaoDeCreditoAgregacao();
             cdc2.numero = 44332211;
             cdc2.dataDeValidade = "12/09";
 

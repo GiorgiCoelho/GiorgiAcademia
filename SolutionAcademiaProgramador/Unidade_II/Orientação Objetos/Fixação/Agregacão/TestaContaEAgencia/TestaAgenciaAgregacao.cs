@@ -9,7 +9,7 @@ namespace Unidade_II.Orientação_Objetos
             Agencia a1 = new Agencia();
             a1.numero = 12345;
 
-            Conta c1 = new Conta();
+            ContaAgregacao c1 = new ContaAgregacao();
             c1.numero = 111;
             c1.saldo = 200;
             c1.limite = 500;
