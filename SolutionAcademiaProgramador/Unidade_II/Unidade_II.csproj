@@ -61,6 +61,8 @@
     <Compile Include="Orientação Objetos\Fixação\Conta.cs" />
     <Compile Include="Orientação Objetos\Fixação\Métodos\ContaMetodo.cs" />
     <Compile Include="Orientação Objetos\Fixação\Métodos\TestaContaMetodo.cs" />
+    <Compile Include="Orientação Objetos\Fixação\Overloading\Gerente.cs" />
+    <Compile Include="Orientação Objetos\Fixação\Overloading\TestaGerente.cs" />
     <Compile Include="Orientação Objetos\Fixação\TestaAgencia.cs" />
     <Compile Include="Orientação Objetos\Fixação\TestaCartaoDeCredito.cs" />
     <Compile Include="Orientação Objetos\Fixação\TestaCliente.cs" />

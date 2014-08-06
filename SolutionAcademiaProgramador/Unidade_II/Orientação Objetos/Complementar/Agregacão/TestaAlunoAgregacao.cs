@@ -4,7 +4,7 @@ namespace Unidade_II.Orientação_Objetos.Complementar
 {
     internal class TestaAlunoAgregacao
     {
-        public static void Main(string[] args)
+        public static void Main0(string[] args)
         {
             AlunoAgregacao estudante1 = new AlunoAgregacao();
             estudante1.nome = "Giorgi Coelho";
