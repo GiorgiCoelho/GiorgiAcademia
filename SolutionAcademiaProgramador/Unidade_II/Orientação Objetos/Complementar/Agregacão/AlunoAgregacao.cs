@@ -6,11 +6,11 @@ using System.Threading.Tasks;
 
 namespace Unidade_II.Orientação_Objetos.Complementar
 {
-    class Aluno
+    class AlunoAgregacao
     {
         public string nome;
         public string rg;
         public string dataNascimento;
-        
+        public Turma turma;
     }
 }

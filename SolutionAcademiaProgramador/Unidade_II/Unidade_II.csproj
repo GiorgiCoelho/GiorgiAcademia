@@ -41,16 +41,26 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Orientação Objetos\Complementar\Agregacão\AlunoAgregacao.cs" />
+    <Compile Include="Orientação Objetos\Complementar\Agregacão\TestaAlunoAgregacao.cs" />
     <Compile Include="Orientação Objetos\Complementar\Aluno.cs" />
     <Compile Include="Orientação Objetos\Complementar\Funcionario.cs" />
+    <Compile Include="Orientação Objetos\Complementar\Métodos\FuncionarioMetodo.cs" />
+    <Compile Include="Orientação Objetos\Complementar\Métodos\TestaFuncionarioMetodo.cs" />
     <Compile Include="Orientação Objetos\Complementar\TestaAluno.cs" />
     <Compile Include="Orientação Objetos\Complementar\TestaFuncionario.cs" />
     <Compile Include="Orientação Objetos\Complementar\TestaTurma.cs" />
     <Compile Include="Orientação Objetos\Complementar\Turma.cs" />
     <Compile Include="Orientação Objetos\Fixação\Agencia.cs" />
+    <Compile Include="Orientação Objetos\Fixação\Agregacão\TestaCartaoECliente\CartaoDeCreditoAgregacao.cs" />
+    <Compile Include="Orientação Objetos\Fixação\Agregacão\TestaCartaoECliente\TestaCartaoDeCreditoAgregacao.cs" />
+    <Compile Include="Orientação Objetos\Fixação\Agregacão\TestaContaEAgencia\ContaAgregacao.cs" />
+    <Compile Include="Orientação Objetos\Fixação\Agregacão\TestaContaEAgencia\TestaAgenciaAgregacao.cs" />
     <Compile Include="Orientação Objetos\Fixação\CartaoDeCredito.cs" />
     <Compile Include="Orientação Objetos\Fixação\Cliente.cs" />
     <Compile Include="Orientação Objetos\Fixação\Conta.cs" />
+    <Compile Include="Orientação Objetos\Fixação\Métodos\ContaMetodo.cs" />
+    <Compile Include="Orientação Objetos\Fixação\Métodos\TestaContaMetodo.cs" />
     <Compile Include="Orientação Objetos\Fixação\TestaAgencia.cs" />
     <Compile Include="Orientação Objetos\Fixação\TestaCartaoDeCredito.cs" />
     <Compile Include="Orientação Objetos\Fixação\TestaCliente.cs" />
