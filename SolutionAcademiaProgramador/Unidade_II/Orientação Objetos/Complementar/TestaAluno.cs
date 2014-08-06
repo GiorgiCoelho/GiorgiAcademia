@@ -31,7 +31,7 @@ namespace Unidade_II.Orientação_Objetos.Complementar
             Console.WriteLine(estudante1.nome);
             Console.WriteLine(estudante1.rg);
             Console.WriteLine(estudante1.dataNascimento);
-            
+
             Console.ReadKey();
         }
     }
