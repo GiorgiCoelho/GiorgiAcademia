@@ -19,9 +19,7 @@ namespace Unidade_II.Orientação_Objetos.Fixação.Overloading
             taxa /= 100;
             g1.AumentoSalario(taxa);
             Console.WriteLine("Salário: " +g1.salario);
-            Console.ReadKey();
-
-            
+            Console.ReadKey();            
         }
     }
 }
